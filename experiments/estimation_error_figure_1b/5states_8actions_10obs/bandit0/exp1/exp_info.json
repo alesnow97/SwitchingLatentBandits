@@ -1,0 +1,1 @@
+{"starting_checkpoint": 20000, "num_checkpoints": 51, "checkpoint_duration": 1000, "num_experiments": 10, "num_selected_arms": 3, "min_selected_arms": [2, 4, 7], "min_complexity_value": 13.036992612918764, "min_min_singular_value": 1.8900209117816145, "max_exploration_actions": [0, 1, 5], "max_complexity_value": 51.52145159182553, "max_min_singular_value": 0.4782510566738058}
