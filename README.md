@@ -14,6 +14,7 @@ Specifically:
 - the *plots* directory contains files used for plotting the results stored in the *experiments* directory. 
 
 The provided code primarily supports the experiments presented in Figures 1, 2, and 5.  
+
 To replicate the remaining experiments, minor modifications to the available scripts should be done.
 
 ------------------------------------
